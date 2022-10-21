@@ -112,6 +112,8 @@ predict(w1,w2,test)
 test=np.array([[1],[1]])
 predict(w1,w2,test)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
  ### OUTPUT:
  ![nn-3](https://user-images.githubusercontent.com/93427286/197164993-e7eb0813-fafd-4b5f-828a-03ba6b59ff13.jpg)
 
