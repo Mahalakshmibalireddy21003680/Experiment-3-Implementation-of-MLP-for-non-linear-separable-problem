@@ -41,7 +41,7 @@ Step 4 : Test for the XOR patterns.
 ### DEVELOPED BY : BALIREDDY MAHALAKSHMI
 ### REG NO : 21221240008
 ### PROGRAM:
-~~~
+```
 import numpy as np
 import pandas as pd
 import io
@@ -111,8 +111,7 @@ test=np.array([[1],[0]])
 predict(w1,w2,test)
 test=np.array([[1],[1]])
 predict(w1,w2,test)
-
-~~`
+```
 
 
  ### OUTPUT:
